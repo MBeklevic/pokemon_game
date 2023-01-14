@@ -9,6 +9,7 @@
 
 ## Features
 - User can play game by refreshing the page!
+- Responsive Design
 
 ## Libraries
 - React
