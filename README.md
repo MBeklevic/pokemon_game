@@ -11,9 +11,9 @@
 - User can play game by refreshing the page!
 
 ## Libraries
--React
--Pokemon API
+- React
+- Pokemon API
 
 ## About Me
-[LinkedIn](https://linkedin.com/in/mustafabekleviç/)
-[GitHub](https://github.com/MBeklevic)
+- [LinkedIn](https://linkedin.com/in/mustafabekleviç/)
+- [GitHub](https://github.com/MBeklevic)
