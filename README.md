@@ -1,4 +1,4 @@
-### Pokemon Game
+## Pokemon Game
 ### Pokemon Game Using React Props and Pokemon API
 
 ### Live Demo
